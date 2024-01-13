@@ -1,0 +1,7 @@
+new entry "NaturalExplorer_Forester"
+type "PassiveData"
+data "DisplayName" "h332027cdg084cg4845gbc6ag4c4a4335a9bb;1"
+data "Description" "h751edaa6g6f8eg4b88g8b50geccb5e20c6bc;1"
+data "Icon" "PassiveFeature_Generic_Nature"
+data "Properties" "Highlighted"
+data "Boosts" "ProficiencyBonus(Skill,Nature);UnlockSpell(Shout_Shillelagh,,,,Wisdom)"
