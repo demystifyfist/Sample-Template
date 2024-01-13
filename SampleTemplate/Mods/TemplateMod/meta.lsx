@@ -17,26 +17,26 @@
       <children>
         <node id="Dependencies"/>
         <node id="ModuleInfo">
-          <attribute id="Author" type="LSWString" value="BG3 Community"/>
+          <attribute id="Author" type="LSWString" value="nook"/>
           <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-          <attribute id="Description" type="LSWString" value="A Basic Template for setting up a new BG3 mod"/>
+          <attribute id="Description" type="LSWString" value="Adds certain PHB spells to the Ranger spell list"/>
           <attribute id="Folder" type="LSWString" value="TemplateMod"/>
           <attribute id="GMTemplate" type="FixedString" value=""/>
           <attribute id="LobbyLevelName" type="FixedString" value=""/>
           <attribute id="MD5" type="LSString" value=""/>
           <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
           <attribute id="MenuLevelName" type="FixedString" value=""/>
-          <attribute id="Name" type="FixedString" value="TemplateMod"/>
+          <attribute id="Name" type="FixedString" value="Ranger Expanded Spells"/>
           <attribute id="NumPlayers" type="uint8" value="4"/>
           <attribute id="PhotoBooth" type="FixedString" value=""/>
           <attribute id="StartupLevelName" type="FixedString" value=""/>
-          <attribute id="Tags" type="LSWString" value="Template"/>
+          <attribute id="Tags" type="LSWString" value="Ranger;Spells"/>
           <attribute id="Type" type="FixedString" value="Add-on"/>
-          <attribute id="UUID" type="FixedString" value="faef6819-403e-460d-83f4-c8788a854773"/>
-          <attribute id="Version64" type="int64" value="36028797018963968"/>
+          <attribute id="UUID" type="FixedString" value="0a5684d7-c5ce-4570-9a7b-cbb4d2a6a36c"/>
+          <attribute id="Version64" type="int64" value="36028797018963969"/>
           <children>
             <node id="PublishVersion">
-                <attribute id="Version64" type="int64" value="36028797018963968"/>
+                <attribute id="Version64" type="int64" value="36028797018963969"/>
             </node>
             <node id="Scripts" />
             <node id="TargetModes">
