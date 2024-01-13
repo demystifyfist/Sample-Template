@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="1" minor="2" revision="0" build="2"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="NaturalExplorer_BeastTamer,NaturalExplorer_UrbanTracker,NaturalExplorer_Forester,NaturalExplorer_WastelandWander_Cold,NaturalExplorer_WastelandWander_Fire,NaturalExplorer_WastelandWander_Poison"/>
+                    <attribute id="UUID" type="guid" value="72c63024-60af-486e-a180-c7aeee5d77c1"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
